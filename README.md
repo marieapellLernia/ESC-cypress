@@ -12,4 +12,5 @@ https://docs.google.com/document/d/1opcmyHKRjd8NceqJEODWtD-pMucknHeoLLqPXXnXShU/
 
 ### Cypress-Test
 * npm install cypress --save-dev
-* run cypress:open
+* npx cypress open
+* npx cypress run
